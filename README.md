@@ -5,7 +5,7 @@
 
 <h2 align="center">Digital Craftsman (Developer/E-commerce/Marketer)</h2>
 
-<p align="center">I'm an front-end developer building my version of the digital world one step at a time. All coding projects are build from the ground up, from planning and designing al lthe way to solving real-life problems with code.</p>
+<p align="center">I'm an full stack web developer building my version of the digital world one step at a time. All coding projects are build from the ground up, from planning and designing al lthe way to solving real-life problems with code.</p>
 
 <p align="center">
   <a href="https://twitter.com/DevinSocial"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
